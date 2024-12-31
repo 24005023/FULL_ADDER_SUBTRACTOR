@@ -3,7 +3,7 @@
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ``` 
 Developed by: SANTHOSH SUDHAKAR
-RegisterNumber: 21222404040296
+RegisterNumber: 212224040296
 ```
 
 **AIM:**
